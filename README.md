@@ -23,7 +23,7 @@ This project provides code for controlling a robot car using an ESP8266 microcon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zahidparviz/robot-car-code.git
+   git clone https://github.com/zahidprvz/robot-car-code.git
    ```
 
 2. Open the Arduino IDE and install the ESP8266 board package. Add the following URL to the "Additional Boards Manager URLs" in Arduino Preferences:
